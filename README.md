@@ -1,5 +1,5 @@
 # live-projects
-Projetos que eu vou fazer live
+Projetos que eu vou fazer em live
 
 - [X] minecraft pixel art generator (https://github.com/willyandan/minecraft-pixel-art-generator)  
 - [ ] enhanced discord music bot  
